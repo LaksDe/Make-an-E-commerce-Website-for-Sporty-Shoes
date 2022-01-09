@@ -32,5 +32,4 @@ If you did not understand the installation and setup process, follow this video:
 1. Import the .sql file to your database
 2. Run the project using localhost
 
-### License
-This project is licensed under the terms of the MIT license
+
