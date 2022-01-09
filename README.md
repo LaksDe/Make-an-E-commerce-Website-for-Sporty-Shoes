@@ -1,4 +1,4 @@
-# MSwiss E-Commerce Website
+# E-Commerce Website
 
 Shoes E-commerce Website In PHP is developed using PHP and MYSQL database which can show shoe products with images and details, provide login and signup features and lastly help customers to add and check out products from their cart. The site also uses Bootstrap which has provided the site with a beautiful and interactive user interface.
 
